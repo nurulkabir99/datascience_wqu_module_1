@@ -6,4 +6,4 @@ def lucas_lehmer(p):
             ll_seq.append(n_i)
     return ll_seq
 
-print(lucas_lehmer(61))
+print(lucas_lehmer(17))
